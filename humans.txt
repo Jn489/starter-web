@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Joseph Nazario jn489@oit.rutgers.edu
 
 # THANKS
 
