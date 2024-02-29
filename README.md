@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 ### Copyright
 
 git
+
+## How to contribute
+please fork this repo and then issue pull req for review.
