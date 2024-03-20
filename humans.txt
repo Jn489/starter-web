@@ -7,12 +7,10 @@
 
 # THANKS
 
-    All my students
+    tanks
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
 Please leave reviewwer
-
-B963
